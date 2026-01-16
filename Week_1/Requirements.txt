@@ -1,0 +1,31 @@
+ Project Requirements for Personal Introduction Program<br>
+1. Operating System<br>
+Primary: Windows 10 or later<br>
+Optional: Linux (Ubuntu 18.04+) or macOS (10.15+)<br>
+<br>
+2. Python Version<br>
+Python 3.8 or higher is required.<br>
+Ensure pip is installed to manage optional libraries.<br>
+3. Libraries / Dependencies<br>
+No external libraries are needed for basic input/output.<br>
+Optional enhancement libraries:<br>
+colorama – For adding colored text to the console.<br>
+pip install colorama<br>
+4. Hardware Requirements<br>
+CPU: Any modern processor (Intel or AMD)<br>
+RAM: Minimum 2 GB<br>
+Storage: Minimum 100 MB free disk space<br>
+Input/Output: Keyboard and Monitor<br>
+5. Software Requirements<br>
+Python interpreter installed on your system<br>
+Code editor or IDE (recommended: VS Code, PyCharm, or Jupyter Notebook)<br>
+Command-line interface (CMD / PowerShell / Terminal)<br>
+6. Tools Used<br>
+ Google Colab – for interactive development and testing<br>
+
+
+7. Notes<br>
+
+This project is lightweight and beginner-friendly.<br>
+No advanced hardware or software setup is required.<br>
+Optional libraries and tools are only for enhancing user experience or project presentation.<br>
