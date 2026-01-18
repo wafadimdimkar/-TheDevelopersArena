@@ -1,0 +1,107 @@
+﻿Student Grade Calculator – Test Cases
+Week 2 – Data Science Internship
+
+
+Test Case 1: Valid Marks – Grade A
+Input:
+Student Name: Anjali
+Marks: 95
+Expected Output:
+Grade: A
+Message: Excellent work! 
+Result:
+PASS
+
+
+Test Case 2: Valid Marks – Grade B
+Input:
+Student Name: Priya
+Marks: 85
+Expected Output:
+Grade: B
+Message: Very Good! Keep it up! 
+Result:
+PASS
+
+
+Test Case 3: Valid Marks – Grade C
+Input:
+Student Name: Rahul
+Marks: 75
+Expected Output:
+Grade: C
+Message: Good effort! You can do better 
+Result:
+PASS
+
+
+Test Case 4: Valid Marks – Grade D
+Input:
+Student Name: Neha
+Marks: 65
+Expected Output:
+Grade: D
+Message: Needs improvement. Don’t give up!
+Result:
+PASS
+
+
+Test Case 5: Valid Marks – Grade F
+Input:
+Student Name: Amit
+Marks: 40
+Expected Output:
+Grade: F
+Message: Better luck next time. Keep trying 
+Result:
+PASS
+
+
+Test Case 6: Invalid Marks (Greater than 100)
+Input:
+Student Name: Riya
+Marks: 110
+Expected Behavior:
+Program displays error message
+User is asked to re-enter marks
+Re-entered Marks:
+Marks: 90
+Final Output:
+Grade: A
+Result:
+PASS
+
+
+Test Case 7: Invalid Marks (Negative Value)
+Input:
+Student Name: Karan
+Marks: -10
+Expected Behavior:
+Program displays error message
+User is asked to re-enter marks
+Re-entered Marks:
+Marks: 70
+Final Output:
+Grade: C
+Result:
+PASS
+
+
+Test Case 8: Boundary Value (0 Marks)
+Input:
+Student Name: Sita
+Marks: 0
+Expected Output:
+Grade: F
+
+
+Result:
+PASS
+Test Case 9: Boundary Value (100 Marks)
+Input:
+Student Name: Rohit
+Marks: 100
+Expected Output:
+Grade: A
+Result:
+PASS
