@@ -1,6 +1,6 @@
 
 
- Project: Week 4 – Data Visualization<br>
+ Project: Week 4 – Data Visualization
 Topic: E-commerce Sales Data Analysis<br>
 
 
