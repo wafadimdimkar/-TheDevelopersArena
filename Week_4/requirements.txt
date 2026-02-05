@@ -1,38 +1,37 @@
 
 
  Project: Week 4 – Data Visualization
-Topic: E-commerce Sales Data Analysis<br>
+Topic: E-commerce Sales Data Analysis
 
 
- Programming Language<br>
- Python is required to run the analysis and visualization scripts<br>
-python>=3.8<br>
+ Programming Language
+ Python is required to run the analysis and visualization scripts
+python>=3.8
 
- Data Analysis Library<br>
- Pandas is used for loading CSV data, cleaning data,<br>
- grouping records, and calculating sales metrics<br>
-pandas>=1.5<br>
+ Data Analysis Library
+ Pandas is used for loading CSV data, cleaning data,
+ grouping records, and calculating sales metrics
+pandas>=1.5
 
- Data Visualization Library<br>
- Matplotlib is used to create bar charts and pie charts<br>
- for visual representation of sales data<br>
-matplotlib>=3.7<br>
+ Data Visualization Library
+ Matplotlib is used to create bar charts and pie charts
+ for visual representation of sales data
+matplotlib>=3.7
 
- Execution Environment<br>
- This project is compatible with:<br>
- - Google Colab (recommended)<br>
- - Jupyter Notebook<br>
- - Local Python IDE (VS Code, PyCharm, etc.)<br>
+ Execution Environment
+ This project is compatible with:
+ - Google Colab (recommended)
+ - Jupyter Notebook
+ - Local Python IDE (VS Code, PyCharm, etc.)
+ Hardware Requirements
+ Minimum: 4 GB RAM
+ Recommended: 8 GB RAM for smoother execution
+ CPU: Any modern processor (Intel / AMD)
 
- Hardware Requirements<br>
- Minimum: 4 GB RAM<br>
- Recommended: 8 GB RAM for smoother execution<br>
- CPU: Any modern processor (Intel / AMD)<br>
+ Operating System Compatibility
+ Windows / macOS / Linux
+ OS-independent when executed on Google Colab
 
- Operating System Compatibility<br>
- Windows / macOS / Linux<br>
- OS-independent when executed on Google Colab<br>
-
- Notes<br>
-No additional third-party libraries are required<br>
- Internet is only needed to upload the dataset when using Colab<br>
+ Notes
+No additional third-party libraries are required
+ Internet is only needed to upload the dataset when using Colab
