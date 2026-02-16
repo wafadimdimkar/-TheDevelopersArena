@@ -1,1 +1,39 @@
+ Project: Customer Sales Analysis
+ Description: Advanced Data Analysis & Dashboard
+
+ Programming Language
+ Python is required to run the notebook and scripts
+python>=3.8
+
+ Core Data Manipulation Library
+ Used for data loading, cleaning, grouping, merging,
+ filtering, datetime handling, and pivot tables
+pandas>=1.5
+
+ Data Visualization Library
+ Used to create line charts, bar charts, and pie charts
+matplotlib>=3.7
+
+ Notebook Environment (Optional but Recommended)
+ If running in Jupyter Notebook
+notebook>=6.5
+
+ Environment Compatibility
+ Works with:
+ - Google Colab (Recommended)
+ - Jupyter Notebook
+ - VS Code with Python extension
+
+ Hardware Requirements
+ Minimum: 4 GB RAM
+ Recommended: 8 GB RAM for smoother execution
+ Processor: Any modern CPU (Intel / AMD)
+
+ Operating System Compatibility
+ Windows / macOS / Linux
+ OS-independent when executed on Google Colab
+
+ Notes
+ No additional third-party libraries are required
+ Internet is only needed to upload datasets in Colab
 
