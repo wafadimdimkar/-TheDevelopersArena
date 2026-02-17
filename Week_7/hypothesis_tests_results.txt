@@ -1,0 +1,16 @@
+HYPOTHESIS TEST RESULTS
+
+Test 1: Independent T-Test
+Null Hypothesis: No difference between high and low sales groups
+Result: If p < 0.05 → Reject Null Hypothesis
+
+Test 2: ANOVA
+Null Hypothesis: Group means are equal
+Result: If p < 0.05 → Significant difference exists
+
+Test 3: Pearson Correlation
+Null Hypothesis: No correlation between Marketing Spend and Sales
+Result: If p < 0.05 → Statistically Significant Relationship
+
+Confidence Level: 95%
+Margin of Error calculated using t-distribution
